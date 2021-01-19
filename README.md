@@ -107,4 +107,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/artystable/h
 
 * **Arty Stable** - *Hyper-Creative Optimizer* - [Arty Stable](https://artystable.github.io) - *Founder*
 
-> Special [thanks](https://github.com/artystable/hilarious-henri/blob/bootstrapping/THANKS.md) to all the folks whose work made this easier.
+> Special [thanks](https://github.com/artystable/hilarious-henri/blob/main/THANKS.md) to all the folks whose work made this easier.
