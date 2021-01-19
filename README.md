@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/artystable/hilarious-henri">
-    <img src="https://raw.githubusercontent.com/artystable/hilarious-henri/bootstrapping/assets/hh-logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/artystable/hilarious-henri/main/assets/hh-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Hilarious Henri</h3>
@@ -44,7 +44,7 @@
 
 ## About The Project
 
-![Screen Shot](https://raw.githubusercontent.com/artystable/hilarious-henri/bootstrapping/assets/showcase-meme.png)
+![Screen Shot](https://github.com/artystable/hilarious-henri/blob/main/assets/showcase-meme.png?raw=true)
 
 I've been writing a lot of shell scripts lately and creating little shell contraptions for various sysadmin routinary and troubleshooting tasks. Some of these are actually helpful and I've even started using them across multiple operating systems like mac OS, Ubuntu and other Linux distributions. This project should help managing these utility scripts and recipes easier. I'm also glad to share it with others.
 
