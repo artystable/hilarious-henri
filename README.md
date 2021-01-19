@@ -19,9 +19,14 @@
     .
     <a href="https://github.com/artystable/hilarious-henri/issues">Request Feature</a>
   </p>
+  <p align="center">
+    <img src="https://img.shields.io/github/contributors/artystable/hilarious-henri?color=dark-green"/>
+    <img src="https://img.shields.io/github/forks/artystable/hilarious-henri?style=social"/>
+    <img src="https://img.shields.io/github/license/artystable/hilarious-henri"/>
+    <img src="https://img.shields.io/github/stars/artystable/hilarious-henri?style=social"/>
+    <img src="https://img.shields.io/github/issues/artystable/hilarious-henri"/>
+  </p>
 </p>
-
-![Contributors](https://img.shields.io/github/contributors/artystable/hilarious-henri?color=dark-green) ![Forks](https://img.shields.io/github/forks/artystable/hilarious-henri?style=social) ![Stargazers](https://img.shields.io/github/stars/artystable/hilarious-henri?style=social) ![Issues](https://img.shields.io/github/issues/artystable/hilarious-henri) ![License](https://img.shields.io/github/license/artystable/hilarious-henri) 
 
 ## Table Of Contents
 
@@ -76,7 +81,7 @@ I particularly like the `cs` alias. I'd be interested in learning what you find 
 
 ## Roadmap
 
-Ideally, this project might evolve into a more standard `.dotfiles` or some other organized user configurations resource. Realistically, this project will likely get archived before 2022 when my system setup needs are likely to have changed. Truth is, only time will tell. See [heat death of the universe for more information](https://en.wikipedia.org/wiki/Heat_death_of_the_universe).
+Ideally, this project might evolve into a more standard `.dotfiles` or some other organized user configurations resource. Realistically, this project will likely get archived before 2022 when my system setup needs are likely to have changed. The truth is, only time will tell. See [heat death of the universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe) for more information.
 
 ## Contributing
 
@@ -102,4 +107,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/artystable/h
 
 * **Arty Stable** - *Hyper-Creative Optimizer* - [Arty Stable](https://artystable.github.io) - *Founder*
 
-> Special [thanks](https://raw.githubusercontent.com/artystable/hilarious-henri/bootstrapping/THANKS.md) to all the folks whose work made this easier.
+> Special [thanks](https://github.com/artystable/hilarious-henri/blob/bootstrapping/THANKS.md) to all the folks whose work made this easier.
